@@ -7,7 +7,7 @@ This project focuses on designing a relational database schema for a restaurant 
 The restaurant has recently moved to a new location on a busy street in Chinatown and needs a structured database to display its menu and customer reviews on its new website.
 
 As a database designer, the main objective of this project is to model real-world restaurant data and implement a working SQL solution that supports menu organization, pricing, and customer feedback.
-<img width="1000" height="3500" alt="Bytes_of_China-single-column" src="https://github.com/user-attachments/assets/db4d2253-f39d-4ab8-b60e-75b5c3af134e" />
+<img width="800" height="2500" alt="Bytes_of_China-single-column" src="https://github.com/user-attachments/assets/db4d2253-f39d-4ab8-b60e-75b5c3af134e" />
 
 ---
 
